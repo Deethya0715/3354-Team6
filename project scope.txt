@@ -1,0 +1,26 @@
+1.1. Views
+  - Student
+    - Add/remove classes from schedule
+    - View schedule
+    - View information on classes in schedule (location, teacher, time)
+    - View grades for individual classes
+    - View GPA for semester/term
+    - View all classes taken (including previously)
+  - Faculty
+    - View classes you teach
+    - View students enrolled in classes
+    - View students' grades in classes
+    - Update students' grades in classes
+1.2. Classes
+  - Create a class with an assigned location, time, and teacher
+  - Add students to class until occupany is reached
+  - Block future registration when a class is max occupancy
+1.3. Schedules
+   - Add and remove classes to/from a schedule
+   - Validate the classes on the schedule work (no time conflicts, prerequisites, or credit limit)
+   - Assign schedules to students after validation
+1.4. Gradebook
+  - Display all classes and their grades for the current semester
+  - Display total GPA for the current semester
+  - Allow switching modes to view previous semesters' GPA
+  - Separate page shows all taken classes and cumulative total GPA
