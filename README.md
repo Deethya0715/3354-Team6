@@ -1,1 +1,1 @@
-# University Information System
+# Team 6
